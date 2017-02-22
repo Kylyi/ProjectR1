@@ -1,0 +1,1 @@
+zachová se pomìr stran obrázku -> pøi roztažení do strany (width) se projeví max-height a obrázek "pøeteèe" na výšku -> v podstatì dojde k pøiblížení obrázku
